@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "question": "Cho tôi biết thông tin về công ty FPT",
+        "ticker": "FPT",
+        "type": "info"
+    },
+    {
+        "id": 2,
+        "question": "Thông tin tổng quan về mã VNM (Vinamilk)?",
+        "ticker": "VNM",
+        "type": "info"
+    },
+    {
+        "id": 3,
+        "question": "Giá đóng cửa HPG hôm qua là bao nhiêu?",
+        "ticker": "HPG",
+        "type": "price_today"
+    },
+    {
+        "id": 4,
+        "question": "Tôi muốn biết giá ACB hôm qua",
+        "ticker": "ACB",
+        "type": "price_today"
+    }
+]
