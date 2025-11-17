@@ -323,9 +323,8 @@ pytest -v -s --tb=short
 ## 👨‍💻 Tác giả
 
 **Thông tin sinh viên:**
-- Tên: [Tên của bạn]
-- Mã sinh viên: [Mã SV]
-- Email: [Email]
+- Tên: Nguyễn Công Thắng
+- Email: congthangws04@gmail.com
 
 **Dự án:** Bài test AI Agent Chứng khoán VnStock
 **Ngày hoàn thành:** 17/11/2025
